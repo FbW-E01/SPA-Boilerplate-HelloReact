@@ -16,10 +16,10 @@ Node version 15 should work.
     function App() {
         return (
             <div className="App">
-            <Header />
-            <Sidebar />
-            <Body />
-            <Footer />
+                <Header />
+                <Sidebar />
+                <Body />
+                <Footer />
             </div>
         );
     }
