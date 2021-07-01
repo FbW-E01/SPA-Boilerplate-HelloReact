@@ -28,3 +28,5 @@ Node version 15 should work.
 5. Implement the rest of the app (individual components and their CSS files) to create an app that looks something like this:
 
 ![Example image](./example.png)
+
+6. *BONUS!* Create a new component that simply contains one `<button>`. Then use that same component in the Header, the Sidebar, the Body and the Footer.
